@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'josefin sans'
+}
+
+body{
+    background-color: rgb(151, 151, 151);
+}
+form{
+    height: 560px;
+    width: 45%;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+.cross{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.fa-twitter {
+    color: rgb(4, 158, 209);
+    margin-left: 40%;
+    font-size: 30px;
+    margin-top: 10px;
+}
+h2{
+    margin-left: 130px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.google {
+    border: 2px solid rgb(209, 209, 209);
+    height: 40px;
+    width: 40%;
+    margin-left: 130px;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: 'josefin sans'
+}
+
+.pple {
+    border: 2px solid rgb(209, 209, 209);
+    height: 40px;
+    width: 40%;
+    margin-left: 130px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.or {
+    margin-left: 220px;
+    font-size: 20px;
+}
+
+input{
+    margin-left: 130px;
+    width: 40%;
+    height: 50px;
+    padding: 10px;
+    font-size: large;
+}
+
+button {
+    height: 35px;
+    background-color: black;
+    color: white;
+    width: 40%;
+    margin-left: 130px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.reset {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.sig {
+    color: blue;
+}
+
+p {
+    margin-top: 20px;
+    margin-left: 120px;
+    opacity: 70%;
+}
+.next:hover {
+    background-color: rgb(32, 28, 28);
+    transition: 0.3s;
+}
